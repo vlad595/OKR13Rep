@@ -1,0 +1,2 @@
+Also new file with some new text
+Also some text from a local repo
